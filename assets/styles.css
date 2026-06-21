@@ -1,0 +1,19 @@
+:root {
+  --rs-orange: #FF7A00;
+  --rs-cyan: #00D1FF;
+  --rs-bg: #0B1118;
+  --rs-card: rgba(255, 255, 255, 0.045);
+}
+
+.neon-card {
+  background: var(--rs-card);
+  border: 1px solid rgba(255,255,255,0.09);
+  border-radius: 18px;
+  padding: 16px 18px;
+  box-shadow: 0 14px 35px rgba(0,0,0,0.22);
+}
+
+.soft-note {
+  color: #A8B4C3;
+  line-height: 1.55;
+}
